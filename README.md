@@ -1,0 +1,1 @@
+Azure Storage configurations by terraform
